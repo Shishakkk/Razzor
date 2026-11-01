@@ -1,0 +1,40 @@
+﻿@page
+@model RentalsModel
+@{ ViewData["Title"] = "Аренда"; }
+
+<h1>История аренды</h1>
+
+<table class="table table-striped">
+    <thead>
+        <tr><th>Книга</th><th>Читатель</th><th>Выдана</th><th>Возвращена</th><th></th></tr>
+    </thead>
+    <tbody>
+    @foreach (var r in Model.Rentals)
+    {
+        <tr>
+            <td>@r.BookTitle</td>
+            <td>@r.ReaderName</td>
+            <td>@r.RentedAt.ToString("dd.MM.yyyy HH:mm")</td>
+            <td>
+                @if (r.ReturnedAt == null)
+                {
+                    <span class="badge bg-warning text-dark">В аренде</span>
+                }
+                else
+                {
+                    @r.ReturnedAt.Value.ToString("dd.MM.yyyy HH:mm")
+                }
+            </td>
+            <td>
+                @if (r.ReturnedAt == null)
+                {
+                    <form method="post" asp-page-handler="Return">
+                        <input type="hidden" name="rentalId" value="@r.Id" />
+                        <button class="btn btn-sm btn-success">Вернуть</button>
+                    </form>
+                }
+            </td>
+        </tr>
+    }
+    </tbody>
+</table>

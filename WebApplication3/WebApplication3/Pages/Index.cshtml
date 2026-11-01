@@ -1,0 +1,71 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Генератор паролей";
+}
+
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="utf-8" />
+    <title>@ViewData["Title"]</title>
+    <style>
+            body { font-family: system-ui, sans-serif; max-width: 640px; margin: 40px auto; padding: 0 16px; }
+            label { display: block; margin: 8px 0; }
+            .result { margin-top: 20px; padding: 12px; background: #f4f4f4; border-radius: 8px; word-break: break-all; }
+            .ok { color: #146c2e; font-weight: 600; }
+            .fail { color: #a31212; }
+            .errors { margin-top: 8px; padding-left: 20px; }
+            input[type=number] { width: 80px; }
+    </style>
+</head>
+<body>
+    <h1>Генератор паролей</h1>
+
+    <form method="post">
+        <label>
+            Длина:
+            <input type="number" name="length" value="@Model.Length" min="6" max="64" />
+        </label>
+        <label><input type="checkbox" name="useUpper" value="true" @(Model.UseUpper ? "checked" : "") /> Заглавные (A-Z)</label>
+        <label><input type="checkbox" name="useLower" value="true" @(Model.UseLower ? "checked" : "") /> Строчные (a-z)</label>
+        <label><input type="checkbox" name="useDigits" value="true" @(Model.UseDigits ? "checked" : "") /> Цифры (0-9)</label>
+        <label><input type="checkbox" name="useSpecial" value="true" @(Model.UseSpecial ? "checked" : "") /> Спецсимволы (!@@#$%...)</label>
+
+        <button type="submit">Сгенерировать</button>
+    </form>
+
+    @if (!string.IsNullOrEmpty(Model.Password))
+    {
+        <div class="result">
+            <strong>Пароль:</strong><br />
+            <code>@Model.Password</code>
+            <p><small>Хеш (начало/конец): <code>@Model.Hash</code></small></p>
+        </div>
+
+        @if (Model.IsStrong)
+        {
+            <p class="ok">✔ Пароль соответствует критериям сложности.</p>
+        }
+        else
+        {
+            <p class="fail">✘ Пароль не прошёл проверку сложности:</p>
+            <ul class="errors">
+                @foreach (var e in Model.Errors)
+                {
+                    <li class="fail">@e</li>
+                }
+            </ul>
+        }
+    }
+    else if (Model.Errors.Count > 0)
+    {
+        <ul class="errors">
+            @foreach (var e in Model.Errors)
+            {
+                <li class="fail">@e</li>
+            }
+        </ul>
+    }
+</body>
+</html>

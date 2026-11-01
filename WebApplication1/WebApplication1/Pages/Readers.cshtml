@@ -1,0 +1,26 @@
+﻿@page
+@model ReadersModel
+@{ ViewData["Title"] = "Читатели"; }
+
+<h1>Читатели</h1>
+
+<div class="card mb-4">
+    <div class="card-header">Добавить читателя</div>
+    <div class="card-body">
+        <form method="post" class="row g-2">
+            <div class="col-md-5"><input asp-for="NewName" class="form-control" placeholder="ФИО" /></div>
+            <div class="col-md-5"><input asp-for="NewEmail" class="form-control" placeholder="Email" /></div>
+            <div class="col-md-2"><button class="btn btn-primary w-100">Добавить</button></div>
+        </form>
+    </div>
+</div>
+
+<table class="table table-striped">
+    <thead><tr><th>#</th><th>ФИО</th><th>Email</th></tr></thead>
+    <tbody>
+    @foreach (var r in Model.Readers)
+    {
+        <tr><td>@r.Id</td><td>@r.FullName</td><td>@r.Email</td></tr>
+    }
+    </tbody>
+</table>

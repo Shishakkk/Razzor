@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Arsen\\Desktop\\Programm\\C#\\Tasks_Razor\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12AA022A-05C3-4486-ADEC-9E8C424DBDED}|WebApplication1\\WebApplication1.csproj|c:\\users\\arsen\\desktop\\programm\\c#\\tasks_razor\\webapplication1\\webapplication1\\pages\\books.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12AA022A-05C3-4486-ADEC-9E8C424DBDED}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\pages\\books.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12AA022A-05C3-4486-ADEC-9E8C424DBDED}|WebApplication1\\WebApplication1.csproj|c:\\users\\arsen\\desktop\\programm\\c#\\tasks_razor\\webapplication1\\webapplication1\\pages\\rentals.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12AA022A-05C3-4486-ADEC-9E8C424DBDED}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\pages\\rentals.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12AA022A-05C3-4486-ADEC-9E8C424DBDED}|WebApplication1\\WebApplication1.csproj|c:\\users\\arsen\\desktop\\programm\\c#\\tasks_razor\\webapplication1\\webapplication1\\pages\\rentals.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12AA022A-05C3-4486-ADEC-9E8C424DBDED}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\pages\\rentals.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12AA022A-05C3-4486-ADEC-9E8C424DBDED}|WebApplication1\\WebApplication1.csproj|c:\\users\\arsen\\desktop\\programm\\c#\\tasks_razor\\webapplication1\\webapplication1\\pages\\readers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12AA022A-05C3-4486-ADEC-9E8C424DBDED}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\pages\\readers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12AA022A-05C3-4486-ADEC-9E8C424DBDED}|WebApplication1\\WebApplication1.csproj|c:\\users\\arsen\\desktop\\programm\\c#\\tasks_razor\\webapplication1\\webapplication1\\pages\\readers.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12AA022A-05C3-4486-ADEC-9E8C424DBDED}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\pages\\readers.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12AA022A-05C3-4486-ADEC-9E8C424DBDED}|WebApplication1\\WebApplication1.csproj|c:\\users\\arsen\\desktop\\programm\\c#\\tasks_razor\\webapplication1\\webapplication1\\pages\\books.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12AA022A-05C3-4486-ADEC-9E8C424DBDED}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\pages\\books.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12AA022A-05C3-4486-ADEC-9E8C424DBDED}|WebApplication1\\WebApplication1.csproj|c:\\users\\arsen\\desktop\\programm\\c#\\tasks_razor\\webapplication1\\webapplication1\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12AA022A-05C3-4486-ADEC-9E8C424DBDED}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12AA022A-05C3-4486-ADEC-9E8C424DBDED}|WebApplication1\\WebApplication1.csproj|c:\\users\\arsen\\desktop\\programm\\c#\\tasks_razor\\webapplication1\\webapplication1\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12AA022A-05C3-4486-ADEC-9E8C424DBDED}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12AA022A-05C3-4486-ADEC-9E8C424DBDED}|WebApplication1\\WebApplication1.csproj|c:\\users\\arsen\\desktop\\programm\\c#\\tasks_razor\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12AA022A-05C3-4486-ADEC-9E8C424DBDED}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12AA022A-05C3-4486-ADEC-9E8C424DBDED}|WebApplication1\\WebApplication1.csproj|c:\\users\\arsen\\desktop\\programm\\c#\\tasks_razor\\webapplication1\\webapplication1\\services\\libraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12AA022A-05C3-4486-ADEC-9E8C424DBDED}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\services\\libraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12AA022A-05C3-4486-ADEC-9E8C424DBDED}|WebApplication1\\WebApplication1.csproj|c:\\users\\arsen\\desktop\\programm\\c#\\tasks_razor\\webapplication1\\webapplication1\\models\\rental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12AA022A-05C3-4486-ADEC-9E8C424DBDED}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\rental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12AA022A-05C3-4486-ADEC-9E8C424DBDED}|WebApplication1\\WebApplication1.csproj|c:\\users\\arsen\\desktop\\programm\\c#\\tasks_razor\\webapplication1\\webapplication1\\models\\reader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12AA022A-05C3-4486-ADEC-9E8C424DBDED}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\reader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12AA022A-05C3-4486-ADEC-9E8C424DBDED}|WebApplication1\\WebApplication1.csproj|c:\\users\\arsen\\desktop\\programm\\c#\\tasks_razor\\webapplication1\\webapplication1\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12AA022A-05C3-4486-ADEC-9E8C424DBDED}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Rentals.cshtml",
+              "DocumentMoniker": "C:\\Users\\Arsen\\Desktop\\Programm\\C#\\Tasks_Razor\\WebApplication1\\WebApplication1\\Pages\\Rentals.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Pages\\Rentals.cshtml",
+              "ToolTip": "C:\\Users\\Arsen\\Desktop\\Programm\\C#\\Tasks_Razor\\WebApplication1\\WebApplication1\\Pages\\Rentals.cshtml",
+              "RelativeToolTip": "WebApplication1\\Pages\\Rentals.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAkwCcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-29T07:24:04.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Rentals.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Arsen\\Desktop\\Programm\\C#\\Tasks_Razor\\WebApplication1\\WebApplication1\\Pages\\Rentals.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Pages\\Rentals.cshtml.cs",
+              "ToolTip": "C:\\Users\\Arsen\\Desktop\\Programm\\C#\\Tasks_Razor\\WebApplication1\\WebApplication1\\Pages\\Rentals.cshtml.cs",
+              "RelativeToolTip": "WebApplication1\\Pages\\Rentals.cshtml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAcwCgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T07:24:08.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Readers.cshtml",
+              "DocumentMoniker": "C:\\Users\\Arsen\\Desktop\\Programm\\C#\\Tasks_Razor\\WebApplication1\\WebApplication1\\Pages\\Readers.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Pages\\Readers.cshtml",
+              "ToolTip": "C:\\Users\\Arsen\\Desktop\\Programm\\C#\\Tasks_Razor\\WebApplication1\\WebApplication1\\Pages\\Readers.cshtml",
+              "RelativeToolTip": "WebApplication1\\Pages\\Readers.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-29T07:22:54.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Readers.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Arsen\\Desktop\\Programm\\C#\\Tasks_Razor\\WebApplication1\\WebApplication1\\Pages\\Readers.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Pages\\Readers.cshtml.cs",
+              "ToolTip": "C:\\Users\\Arsen\\Desktop\\Programm\\C#\\Tasks_Razor\\WebApplication1\\WebApplication1\\Pages\\Readers.cshtml.cs",
+              "RelativeToolTip": "WebApplication1\\Pages\\Readers.cshtml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAmwBgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T07:23:05.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Books.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Arsen\\Desktop\\Programm\\C#\\Tasks_Razor\\WebApplication1\\WebApplication1\\Pages\\Books.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Pages\\Books.cshtml.cs",
+              "ToolTip": "C:\\Users\\Arsen\\Desktop\\Programm\\C#\\Tasks_Razor\\WebApplication1\\WebApplication1\\Pages\\Books.cshtml.cs",
+              "RelativeToolTip": "WebApplication1\\Pages\\Books.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T07:21:18.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Books.cshtml",
+              "DocumentMoniker": "C:\\Users\\Arsen\\Desktop\\Programm\\C#\\Tasks_Razor\\WebApplication1\\WebApplication1\\Pages\\Books.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Pages\\Books.cshtml",
+              "ToolTip": "C:\\Users\\Arsen\\Desktop\\Programm\\C#\\Tasks_Razor\\WebApplication1\\WebApplication1\\Pages\\Books.cshtml",
+              "RelativeToolTip": "WebApplication1\\Pages\\Books.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-29T07:20:50.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Arsen\\Desktop\\Programm\\C#\\Tasks_Razor\\WebApplication1\\WebApplication1\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Arsen\\Desktop\\Programm\\C#\\Tasks_Razor\\WebApplication1\\WebApplication1\\Pages\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-29T07:19:37.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Arsen\\Desktop\\Programm\\C#\\Tasks_Razor\\WebApplication1\\WebApplication1\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Arsen\\Desktop\\Programm\\C#\\Tasks_Razor\\WebApplication1\\WebApplication1\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication1\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-29T07:18:52.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Arsen\\Desktop\\Programm\\C#\\Tasks_Razor\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\Arsen\\Desktop\\Programm\\C#\\Tasks_Razor\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T07:18:25.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LibraryService.cs",
+              "DocumentMoniker": "C:\\Users\\Arsen\\Desktop\\Programm\\C#\\Tasks_Razor\\WebApplication1\\WebApplication1\\Services\\LibraryService.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Services\\LibraryService.cs",
+              "ToolTip": "C:\\Users\\Arsen\\Desktop\\Programm\\C#\\Tasks_Razor\\WebApplication1\\WebApplication1\\Services\\LibraryService.cs",
+              "RelativeToolTip": "WebApplication1\\Services\\LibraryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T07:17:50.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Rental.cs",
+              "DocumentMoniker": "C:\\Users\\Arsen\\Desktop\\Programm\\C#\\Tasks_Razor\\WebApplication1\\WebApplication1\\Models\\Rental.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Rental.cs",
+              "ToolTip": "C:\\Users\\Arsen\\Desktop\\Programm\\C#\\Tasks_Razor\\WebApplication1\\WebApplication1\\Models\\Rental.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Rental.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T07:16:50.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Reader.cs",
+              "DocumentMoniker": "C:\\Users\\Arsen\\Desktop\\Programm\\C#\\Tasks_Razor\\WebApplication1\\WebApplication1\\Models\\Reader.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Reader.cs",
+              "ToolTip": "C:\\Users\\Arsen\\Desktop\\Programm\\C#\\Tasks_Razor\\WebApplication1\\WebApplication1\\Models\\Reader.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Reader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T07:12:12.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Arsen\\Desktop\\Programm\\C#\\Tasks_Razor\\WebApplication1\\WebApplication1\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\Arsen\\Desktop\\Programm\\C#\\Tasks_Razor\\WebApplication1\\WebApplication1\\Models\\Book.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T07:11:45.916Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
